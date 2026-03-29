@@ -8,11 +8,17 @@ Runs a phased interview to help you articulate your product's vision, personas, 
 
 ## Install
 
+From the Claude Code plugin marketplace:
+
+```bash
+claude plugin add BenVanZee/product-vision
+```
+
+Or from a local clone:
+
 ```bash
 claude plugin add /path/to/product-vision
 ```
-
-Or add to your Claude Code settings as a plugin directory.
 
 ## Usage
 
