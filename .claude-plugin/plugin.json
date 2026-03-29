@@ -1,0 +1,8 @@
+{
+  "name": "product-vision",
+  "description": "Guide the creation and maintenance of product vision documents. Produces structured vision docs that are readable by humans, consumable by AI agents, and compatible with sprint planning tools.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ben Van Zee"
+  }
+}
