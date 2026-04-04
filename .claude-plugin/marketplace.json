@@ -1,0 +1,15 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "product-vision",
+  "owner": {
+    "name": "Ben Van Zee",
+    "url": "https://github.com/BenVanZee"
+  },
+  "plugins": [
+    {
+      "name": "product-vision",
+      "source": "./",
+      "description": "Guide the creation and maintenance of structured product vision documents for AI agents and sprint planning."
+    }
+  ]
+}
